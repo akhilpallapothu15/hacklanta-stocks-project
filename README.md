@@ -5,9 +5,9 @@ Overview
 This stack is designed for beginners who want to build a simple stock analysis platform with room to grow into AI-powered features. It focuses on ease of use, minimal setup, and widely supported tools while still allowing you to scale into more advanced analytics later.
 <img width="1474" height="673" alt="image" src="https://github.com/user-attachments/assets/82eb02bb-7764-41f6-b0ba-ae0ef8a3c41e" />
 
-Features\n
-View stock prices (current + historical)\n
-Basic charts (line graphs, candlesticks)\n
+Features
+View stock prices (current + historical)
+Basic charts (line graphs, candlesticks)
 Simple indicators:
   Moving Average
   RSI (Relative Strength Index)
